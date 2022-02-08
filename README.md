@@ -144,6 +144,6 @@ Out of the 5 categories of sources for delays, which one appeared most often in
 2011? In other words, in which category should we invest more time to improve?
 
 
-[this gitpod]: https://gitpod.io/#https://github.com/oliverw1/summerschoolsept
+[this gitpod]: https://gitpod.io/#https://github.com/datamindedacademy/effective_pyspark
 [gitpod logo]: https://gitpod.io/button/open-in-gitpod.svg
 [Data Minded Academy]: https://www.dataminded.academy/
