@@ -1,5 +1,6 @@
 FROM gitpod/workspace-python:2022-02-04-06-25-23
 
+ENV trigger_rebuild 1
 ENV DEBIAN_FRONTEND=noninteractive
 ENV SPARK_LOCAL_IP=0.0.0.0
 # needed for master
