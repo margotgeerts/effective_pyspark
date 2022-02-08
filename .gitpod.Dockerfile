@@ -1,4 +1,4 @@
-FROM gitpod/workspace-python:2022-02-04-06-25-23
+FROM gitpod/workspace-python:2022-02-01-06-13-37
 
 ENV TRIGGER_REBUILD 2
 ENV DEBIAN_FRONTEND=noninteractive
