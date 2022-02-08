@@ -1,0 +1,16 @@
+name;title;is_male;entered_office_on;left_office_on;party;consecutive_terms
+Winston Churchill;Sir;true;1951-10-26;1955-04-05;Conservative;1
+Anthony Eden;Sir;true;1955-04-06;1957-01-09;Conservative;1
+Harold Macmillan;;true;1957-01-10;1963-10-18;Conservative;2
+Alec Douglas-Home;Sir;true;1963-10-19;1964-10-16;Conservative;1
+Harold Wilson;;true;1964-10-16;1970-06-19;Labour;2
+Edward Heath;;true;1970-06-19;1974-03-04;Conservative;1
+Harold Wilson;;true;1974-03-04;1976-04-05;Labour;2
+James Callaghan;;true;1976-04-05;1979-05-04;Labour;1
+Margaret Thatcher;;true;1979-05-04;1990-11-28;Conservative;3
+John Major;;true;1990-11-28;1997-05-02;Conservative;2
+Tony Blair;;true;1997-05-02;2007-06-27;Labour;3
+Gordon Brown;;true;2007-06-27;2010-05-11;Labour;1
+David Cameron;;true;2010-05-11;2016-07-13;Conservative;2
+Theresa May;;false;2016-07-13;2019-07-24;Conservative;2
+Boris Johnson;;true;2019-07-24;;Conservative;2
